@@ -1,0 +1,22 @@
+{
+  "name": "lenur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "obfuscator.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LenurDev/task2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LenurDev/task2/issues"
+  },
+  "homepage": "https://github.com/LenurDev/task2#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
